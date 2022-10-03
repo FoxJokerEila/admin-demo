@@ -1,6 +1,12 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### 启动步骤：
+
+npm install
+
+npm satrt
+
+### 介绍
 
 创建命令
 
@@ -22,7 +28,6 @@ npm install --save react-router-dom history
 
 `npm install antd`
 
-
 src/pages 中为页面目录，home为主页，放置页面结构，构建菜单
 
 src/api/student.json 是 mock 的数据，所有的拉取接口的操作都是这一个，当然，开发环境中不会是同一个的，crud 各一个接口。
@@ -39,11 +44,7 @@ src/api/student.json 是 mock 的数据，所有的拉取接口的操作都是�
 
 [mock 数据教程](https://www.php.cn/js-tutorial-465438.html)
 
-
 启动命令：npm start
-
-
-
 
 ## Available Scripts
 
